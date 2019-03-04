@@ -14,7 +14,6 @@ body{
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 100px 50px 120px 300px 250px;
     grid-column-gap: 10px;
-   
 }
 
 /* row 1 heaer */
@@ -30,9 +29,8 @@ h1 {
     padding-top: 35px;
     margin: -10px;
     padding-bottom: -10px;
-   
-    
 }
+
 /* row 2 sub header */
 #message-area {
     grid-column: 1 / 5;
@@ -43,7 +41,8 @@ h1 {
     width: 100%;
     margin-left: -10px;
     margin-right: -10px;
-    padding-right: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 #message-area #message {
@@ -54,9 +53,6 @@ h1 {
     margin-bottom: 0px;
     text-align: center;
     border-radius: 5px;
-   
-   
-
 }
 
 
@@ -146,16 +142,13 @@ h1 {
     border: 5px solid #EF5B5B;
     margin-bottom: -30px;
     font-size: 20px;
-
 }
+
 /* fruit size */
 .fruit {
-    
     height: 200px;
     width: 200px;
-    
 }
-
 
 /* font sizes for stats */
 .fruit:hover {
@@ -184,7 +177,6 @@ h1 {
 }
 
 /* media queries */
-
 @media only screen and (max-width: 924px) {
     .fruit {
         height: 150px;
@@ -203,7 +195,6 @@ h1 {
         grid-template-columns: 25% 25% 25% 25%;
         grid-template-rows: 100px 50px 120px 200px 250px;
         grid-column-gap: 5px;
-   
     }
 
 }
@@ -211,12 +202,12 @@ h1 {
     h1 {
         font-size: 43px;
     }
+
     #content {
         display: grid;
         grid-template-columns: 25% 25% 25% 25%;
         grid-template-rows: 100px 75px 120px 200px 300px;
         grid-column-gap: 5px;
-   
     }
 
     #message-area #message {
@@ -227,21 +218,19 @@ h1 {
         margin-bottom: 0px;
         text-align: center;
         border-radius: 5px;
-       
     }
-    
 }
 
 @media only screen and (max-width: 480px) {
     h1 {
         font-size: 35px;
     }
+
     #content {
         display: grid;
         grid-template-columns: 25% 25% 25% 25%;
         grid-template-rows: 100px 75px 140px 200px 350px;
         grid-column-gap: 5px;
-   
     }
 
     #message-area {
@@ -265,7 +254,6 @@ h1 {
         margin-bottom: -10px;
         text-align: center;
         border-radius: 5px;
-       
     }
 
     .fruit {
@@ -290,7 +278,6 @@ h1 {
         grid-template-columns: 25% 25% 25% 25%;
         grid-template-rows: 100px 110px 140px 175px 390px;
         grid-column-gap: 0px;
-   
     }
 
     #message-area {
@@ -315,7 +302,6 @@ h1 {
         text-align: center;
         border-radius: 5px;
         width: 90%;
-       
     }
 
     .fruit {
@@ -331,7 +317,6 @@ h1 {
         grid-template-columns: 25% 25% 25% 25%;
         grid-template-rows: 120px 110px 140px 175px 500px;
         grid-column-gap: 0px;
-   
     }
 
 }
