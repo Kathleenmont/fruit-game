@@ -4,5 +4,5 @@ Click the fruit to get points. If your Point Total matches the Target Number, yo
 
 Each fruit is worth a different number of points. Each round the Target number changes and so does the value of each fruit.
 
-Deployed Project [here](https://kathleenmont.github.io/TriviaGame/index.html)
+Deployed Project [here](https://kathleenmont.github.io/unit-4-game/index.html)
           
