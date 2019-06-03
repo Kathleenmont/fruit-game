@@ -8,7 +8,7 @@ Click the fruit to get points. If your Point Total matches the Target Number, yo
 Each fruit is worth a different number of points. Each round the Target number changes and so does the value of each fruit.
 
 BUIT WITH
-JavaScript, HTML, CSS, CSS Grid, jQuery.
+JavaScript, HTML, CSS, CSS Grid, and jQuery.
 
 AUTHOR
 Kathleen Montesano
