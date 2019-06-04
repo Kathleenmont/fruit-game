@@ -1,4 +1,4 @@
-# FRUIR ADDITION GAME
+# FRUIT ADDITION GAME
 
 This project is a mobile friendly JavaScript game users can play to keep their math skills sharp.
 
