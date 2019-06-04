@@ -1,4 +1,4 @@
-# Fruit Addition Game
+# FRUIR ADDITION GAME
 
 This project is a mobile friendly JavaScript game users can play to keep their math skills sharp.
 
@@ -6,7 +6,7 @@ This project is a mobile friendly JavaScript game users can play to keep their m
 
 Click the fruit to get points. If your Point Total matches the Target Number, you win the round! If your Point Total goes over the Target Number you lose the round. 
 
-Each fruit is worth a different number of points. Each round the Target number changes and so does the value of each fruit.
+Each fruit is worth a different number of points. Each round the Target Number changes and so does the value of each fruit.
 
 ## BUIT WITH
 
